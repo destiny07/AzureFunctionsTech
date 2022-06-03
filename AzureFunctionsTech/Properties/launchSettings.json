@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureFunctionsTech.Api": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Connection": "AuthType=ClientSecret;url=https://orge73bef4d.crm5.dynamics.com;ClientId=e996fa53-04d5-43cb-8cef-424253459dfd;ClientSecret=LKV8Q~_hn08Y1fvpUuf5bm6IAzoJO4C99dOEHcYW"
+      }
+    }
+  }
+}
